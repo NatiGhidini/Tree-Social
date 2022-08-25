@@ -1,0 +1,42 @@
+img{
+    padding:3px;
+    border:3px solid rgba(186, 133, 152, 0.939);
+    border-radius:70px; 
+    margin: 120px 0 0 550px;  
+}
+
+h3{
+    width: 100px;
+    margin:auto;
+    margin: 1px 0 30px center;
+    color: rgb(246,123,182);
+}
+
+div{
+    width:275px;
+    margin: auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border:3px solid rgba(186, 133, 152, 0.939);
+    border-radius: 15px;
+    text-align: center;
+    padding: 10px;
+    box-sizing: border-box;
+    color:rgba(164, 103, 126, 0.939);
+}
+ 
+a:link , a:visited {
+    text-decoration: none;
+}
+
+body{
+    background-image:-webkit-linear-gradient( rgba(245 214 229),rgb(248, 226, 237),rgb(248, 232, 240), white); 
+    background-image:-moz-linear-gradient( rgba(245 214 229),rgb(248, 226, 237),rgb(248, 232, 240), white);
+    background-image:-o-linear-gradient( rgba(245 214 229),rgb(248, 226, 237),rgb(248, 232, 240), white);
+    background-repeat: no-repeat;
+}
+
+p{
+   color: rgb(170, 168, 168);
+   margin:129px 0 0 600px ;
+}
