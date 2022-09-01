@@ -18,7 +18,7 @@
 
  ```bash
  # Clonando o projeto 
- $ git clone https://github.com/NatiGhidini/Layout-next.github.io
+ $ git clone https://github.com/NatiGhidini/Tree-Social.github.io
  ```
 
  ```bash
