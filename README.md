@@ -23,7 +23,7 @@
 
  ```bash
  # Entrando no repositório
- $ cd Projeto-Git.Github
+ $ cd Tree-Social
  ```
 
  ```bash
